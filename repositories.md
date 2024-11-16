@@ -29,4 +29,5 @@ https://github.com/spack/spack/pull/28502
 
 
 ## Miscelaneous
-- https://uqpylab.uq-cloud.io/
+- UQ: https://uqpylab.uq-cloud.io/
+- Surrogate Modelling : https://smt.readthedocs.io/en/latest/
