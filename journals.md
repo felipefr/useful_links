@@ -1,7 +1,6 @@
 *Journals*
 
 **Computational Mechanics (high level)**
-
 - https://www.sciencedirect.com/journal/computational-materials-science
 - https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design
 - https://www.sciencedirect.com/journal/mechanobiology-in-medicine
@@ -30,23 +29,20 @@
 - (Q3) https://www.degruyter.com/journal/key/ijnsns/html : International Journal of Nonlinear Sciences and Numerical Simulation
 
 **Theoretical Mechanics**
--Acta Mechanica : https://link.springer.com/journal/707
--Mathematics and Mechanics of Solids: https://journals.sagepub.com/home/mms
--Continuum Mechanics and Thermodynamics: https://link.springer.com/journal/https://link.springer.com/journal/10999161
-
-
+- Acta Mechanica : https://link.springer.com/journal/707
+- Mathematics and Mechanics of Solids: https://journals.sagepub.com/home/mms
+- Continuum Mechanics and Thermodynamics: https://link.springer.com/journal/https://link.springer.com/journal/10999161
+- 
 **Specific topics in Computational Mechanics**:
 - Computational Particle Mechanics : https://link.springer.com/journal/40571
-
-
+- 
 **Scientific Computing**:
 - https://www.sciencedirect.com/journal/applied-mathematics-and-computation
 - Numerical Methods for Partial Differential Equations : https://onlinelibrary.wiley.com/journal/10982426 : 
 - Numerische Mathematik : https://link.springer.com/journal/211
 - https://www.siam.org/publications/siam-journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal/
 - https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/
-
-
+- 
 **Acoustics, wave**
 - https://www.sciencedirect.com/journal/wave-motion
 - https://pubs.aip.org/asa/jasa
@@ -62,7 +58,6 @@
 - https://journals.sagepub.com/home/jim: Journal of Intelligent Material Systems and Structures
 - https://www.aimsciences.org/jcd: journal of computational dynamics
 - https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=7274859: IEEE Journal on Multiscale and Multiphysics Computational Techniques
-
 
 **Computational and Modelling in Biomechanics**
 - https://www.tandfonline.com/journals/gcmb20/about-this-journal#aims-and-scope :  Computer Methods in Biomechanics and Biomedical Engineering
