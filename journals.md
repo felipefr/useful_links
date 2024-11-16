@@ -2,27 +2,23 @@
 
 **Computational Mechanics (high level)**
 
--https://www.sciencedirect.com/journal/computational-materials-science
--https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design
--https://www.sciencedirect.com/journal/mechanobiology-in-medicine
--https://www.sciencedirect.com/journal/journal-of-computational-physics
--https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids
--https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering
--https://www.sciencedirect.com/journal/mechanics-of-materials
--https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures	
--https://www.sciencedirect.com/journal/computers-and-structures
--https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/
--Computational Mechanics: https://link.springer.com/journal/466
--The International Journal for Numerical Methods in Engineering : https://onlinelibrary.wiley.com/journal/10970207
--https://www.sciencedirect.com/journal/european-journal-of-mechanics-a-solids
--https://comptes-rendus.academie-sciences.fr/mecanique
--Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences: https://royalsocietypublishing.org/journal/rspa
--Meccanica: https://link.springer.com/journal/11012 (Italian journal)
--Archive in Applied Mechanics: https://link.springer.com/journal/419
--https://www.sciencedirect.com/journal/applied-mathematics-and-computation/about/editorial-board
--https://www.sciencedirect.com/journal/international-journal-of-plasticity -- fast
--Numerical Methods for Partial Differential Equations : https://onlinelibrary.wiley.com/journal/10982426 : 
--https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences--> fast
+- https://www.sciencedirect.com/journal/computational-materials-science
+- https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design
+- https://www.sciencedirect.com/journal/mechanobiology-in-medicine
+- https://www.sciencedirect.com/journal/journal-of-computational-physics
+- https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids
+- https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering
+- https://www.sciencedirect.com/journal/mechanics-of-materials
+- https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures	
+- https://www.sciencedirect.com/journal/computers-and-structures
+- Computational Mechanics: https://link.springer.com/journal/466
+- The International Journal for Numerical Methods in Engineering : https://onlinelibrary.wiley.com/journal/10970207
+- https://www.sciencedirect.com/journal/european-journal-of-mechanics-a-solids
+- https://comptes-rendus.academie-sciences.fr/mecanique
+- Meccanica: https://link.springer.com/journal/11012 (Italian journal)
+- Archive in Applied Mechanics: https://link.springer.com/journal/419
+- https://www.sciencedirect.com/journal/international-journal-of-plasticity -- fast
+- https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences--> fast
 
 **Computational Mechanics (middle range level)**
 -Engineering with Computers: https://link.springer.com/journal/366
@@ -43,7 +39,9 @@
 - Computational Particle Mechanics : https://link.springer.com/journal/40571
 
 
-**Math-orientend Numerical Analysis**:
+**Scientific Computing**:
+- https://www.sciencedirect.com/journal/applied-mathematics-and-computation
+- Numerical Methods for Partial Differential Equations : https://onlinelibrary.wiley.com/journal/10982426 : 
 - Numerische Mathematik : https://link.springer.com/journal/211
 - https://www.siam.org/publications/siam-journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal/
 - https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/
