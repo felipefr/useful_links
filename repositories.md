@@ -40,3 +40,6 @@ https://github.com/spack/spack/pull/28502
 - Surrogate Modelling : https://smt.readthedocs.io/en/latest/
 - https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/MOR_Wiki:Community_portal
 - https://www.morepas.org/
+
+## Inverse Problems
+- With neural networks : https://github.com/cselab/odil
