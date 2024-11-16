@@ -43,3 +43,6 @@ https://github.com/spack/spack/pull/28502
 
 ## Inverse Problems
 - With neural networks : https://github.com/cselab/odil
+
+## Machine Learning
+- https://www.kaggle.com/
