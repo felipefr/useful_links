@@ -2,6 +2,10 @@
 ## Fenics
 - https://bleyerj.github.io/comet-fenicsx/
 - SNES, Fracture : https://newfrac.gitlab.io/newfrac-fenicsx-training/python/README.html
+
+### Contact mechanics
+- https://bitbucket.org/fenics-project/dolfin/src/946dbd3e268dc20c64778eb5b734941ca5c343e5/python/demo/undocumented/contact-vi-snes/demo_contact-vi-snes.py?at=master#demo_contact-vi-snes.py-1,87:88,99
+- Evzen Korec's thesis repo : https://github.com/evzenkorec/thesis_contact/tree/master
   
 ### Tips
 - Quadrature Elements in FenicsX : https://fenicsproject.discourse.group/t/vector-quadrature-element-in-fenicsx-0-7-0/12433
@@ -28,6 +32,7 @@ mfront --obuild --interface=generic IsotropicLinearHardeningPlasticity.mfront
 https://github.com/spack/spack/pull/28502
 
 
-## Miscelaneous
+## UQ, Reduced Models
 - UQ: https://uqpylab.uq-cloud.io/
 - Surrogate Modelling : https://smt.readthedocs.io/en/latest/
+- https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/MOR_Wiki:Community_portal
