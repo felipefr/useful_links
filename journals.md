@@ -21,11 +21,11 @@
 - https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences--> fast
 
 **Computational Mechanics (middle range level)**
--Engineering with Computers: https://link.springer.com/journal/366
--International Journal of Mechanics and Materials in Design : https://link.springer.com/journal/10999
--https://www.sciencedirect.com/journal/mechanics-research-communications --> Fast
--ZAMM : https://onlinelibrary.wiley.com/journal/15214001?tabActivePane=undefined
--https://www.begellhouse.com/journals/multiscale-computational-engineering.html?srsltid=AfmBOor4n46hQteIQQQTyumAyyaV7LcZzKIHET8Z5t6kHf99nh45mQxp
+- Engineering with Computers: https://link.springer.com/journal/366
+- International Journal of Mechanics and Materials in Design : https://link.springer.com/journal/10999
+- https://www.sciencedirect.com/journal/mechanics-research-communications --> Fast
+- ZAMM : https://onlinelibrary.wiley.com/journal/15214001?tabActivePane=undefined
+- https://www.begellhouse.com/journals/multiscale-computational-engineering.html?srsltid=AfmBOor4n46hQteIQQQTyumAyyaV7LcZzKIHET8Z5t6kHf99nh45mQxp
 - (Q3) International Journal of Computational Methods: https://www.worldscientific.com/worldscinet/ijcm
 - (Q3) https://www.degruyter.com/journal/key/ijnsns/html : International Journal of Nonlinear Sciences and Numerical Simulation
 
