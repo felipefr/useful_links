@@ -1,5 +1,6 @@
 # Laboratories/Groups
 - Niko Boukla's lab in SciML for nonlinear solid mechanics: https://blogs.cornell.edu/bouklaslab/
+- Ilias Bilionis's Predictive Science Laboratory (several open-source courses) https://predictivesciencelab.org/?_ga=2.211069777.55457139.1690920119-912162959.1690920119
 
 # Conferences ressources
 - liblice-2014 (very good long formats talks): https://slideslive.com/more/liblice-2014
