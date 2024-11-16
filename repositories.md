@@ -15,6 +15,8 @@
 - https://www.youtube.com/@FEniCS-Project/videos
 - https://scientificcomputing.github.io/fenics2024/#session-1-9-00-10-00
 
+## Meshing
+- Mesh from microstructural images: https://nanomesh.readthedocs.io/en/latest/
 ## Research
 - Implementation strain gradients in Fenics: https://www.sciencedirect.com/science/article/abs/pii/S0168874X14002121
 - Bilen Emek's open-source codes on strain gradient homogenization in Fenics:  https://bilenemek.abali.org/
@@ -37,3 +39,4 @@ https://github.com/spack/spack/pull/28502
 - UQ: https://uqpylab.uq-cloud.io/
 - Surrogate Modelling : https://smt.readthedocs.io/en/latest/
 - https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/MOR_Wiki:Community_portal
+- https://www.morepas.org/
