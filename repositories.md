@@ -13,6 +13,7 @@
 ## Research
 - Implementation strain gradients in Fenics: https://www.sciencedirect.com/science/article/abs/pii/S0168874X14002121
 - Bilen Emek's open-source codes on strain gradient homogenization in Fenics:  https://bilenemek.abali.org/
+- Phase field : https://bitbucket.org/bin-mech/gradient_damage_polymer/src/master/traction_3D.py
 
 ### Installing MGIS
 Clone tfel and mgis projects
