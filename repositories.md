@@ -10,6 +10,10 @@
 - https://www.youtube.com/@FEniCS-Project/videos
 - https://scientificcomputing.github.io/fenics2024/#session-1-9-00-10-00
 
+## Research
+- Implementation strain gradients in Fenics: https://www.sciencedirect.com/science/article/abs/pii/S0168874X14002121
+- Bilen Emek's open-source codes on strain gradient homogenization in Fenics:  https://bilenemek.abali.org/
+
 ### Installing MGIS
 Clone tfel and mgis projects
 install boost in the fenics environment "conda install -c conda-forge boost"
