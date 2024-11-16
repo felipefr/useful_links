@@ -4,3 +4,6 @@
 ### Tips
 - VPN install sudo apt install openconnect
 - VPN connect 'sudo openconnect --protocol=gp -u felipe.figueredo-rocha vpn-nomades.u-pec.fr'
+
+## CNRS
+- https://www.insis.cnrs.fr/fr/les-groupements-de-recherche
