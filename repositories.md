@@ -6,6 +6,7 @@
 ### Contact mechanics
 - https://bitbucket.org/fenics-project/dolfin/src/946dbd3e268dc20c64778eb5b734941ca5c343e5/python/demo/undocumented/contact-vi-snes/demo_contact-vi-snes.py?at=master#demo_contact-vi-snes.py-1,87:88,99
 - Evzen Korec's thesis repo : https://github.com/evzenkorec/thesis_contact/tree/master
+- https://fenicsproject.discourse.group/t/boundary-conditions-for-an-liquid-sphere/4158/5
   
 ### Tips
 - Quadrature Elements in FenicsX : https://fenicsproject.discourse.group/t/vector-quadrature-element-in-fenicsx-0-7-0/12433
