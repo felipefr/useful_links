@@ -11,4 +11,7 @@
 **Numerical Analysis**
 - https://numericalmethodssullivan.github.io/
 
+**Jupyter books**
+- https://perso.univ-lyon1.fr/marc.buffat/
+
 
