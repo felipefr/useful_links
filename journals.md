@@ -74,7 +74,10 @@
 - https://www.sciencedirect.com/journal/advances-in-engineering-software
 
 **Computing, Machine Learning**
---Journal of Machine Learning for Modeling and Computing : https://www.dl.begellhouse.com/journals/558048804a15188a/editorial.html
+- Journal of Machine Learning for Modeling and Computing : https://www.dl.begellhouse.com/journals/558048804a15188a/editorial.html
+
+  **Scientific Writing, reviewing**
+- https://www.springernature.com/gp/authors/campaigns/how-to-peer-review 
 
 
 
