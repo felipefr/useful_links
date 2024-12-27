@@ -42,7 +42,8 @@
 - Numerische Mathematik : https://link.springer.com/journal/211
 - https://www.siam.org/publications/siam-journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal/
 - https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/
-- 
+- Acta Applicandae Mathematicae : https://link.springer.com/journal/10440
+  
 **Acoustics, wave**
 - https://www.sciencedirect.com/journal/wave-motion
 - https://pubs.aip.org/asa/jasa
