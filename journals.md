@@ -32,10 +32,10 @@
 - Acta Mechanica : https://link.springer.com/journal/707
 - Mathematics and Mechanics of Solids: https://journals.sagepub.com/home/mms
 - Continuum Mechanics and Thermodynamics: https://link.springer.com/journal/https://link.springer.com/journal/10999161
-- 
+  
 **Specific topics in Computational Mechanics**:
 - Computational Particle Mechanics : https://link.springer.com/journal/40571
-- 
+  
 **Scientific Computing**:
 - https://www.sciencedirect.com/journal/applied-mathematics-and-computation
 - Numerical Methods for Partial Differential Equations : https://onlinelibrary.wiley.com/journal/10982426 : 
