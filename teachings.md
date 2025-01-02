@@ -6,6 +6,7 @@
 - lker Temizer's Solid Mechanics: https://www.youtube.com/playlist?list=PL5B3KLQNAC5iRc0RTy60E2la6g4PI3aED
 
 **Basic Physics (Mechanics)**
+- https://phys.libretexts.org/Bookshelves/Classical_Mechanics
 - Basic maths reviewing and training as preparation for physics courses : https://colasbd.github.io/cdc/
 
 **Numerical Analysis**
