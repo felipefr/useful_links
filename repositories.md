@@ -50,3 +50,4 @@ https://github.com/spack/spack/pull/28502
 - https://www.kaggle.com/
 - https://kks32-courses.github.io/sciml/README.html
 - https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning
+- https://github.com/agussomacal/ROMHighContrast/tree/NonLinearROM
