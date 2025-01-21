@@ -15,7 +15,10 @@
 **Maths**
 - (Brazilian) Pure and Applied Maths Intitute (IMPA) channel, with several full length courses : https://www.youtube.com/@impabr
 
+**Seminars**
+- https://mfem.org/videos/
 
 **Health and habits**
 - https://www.youtube.com/@BetterThanYesterday
 - https://www.youtube.com/@TEDEd
+
