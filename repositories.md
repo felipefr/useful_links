@@ -46,8 +46,14 @@ https://github.com/spack/spack/pull/28502
 ## Inverse Problems
 - With neural networks : https://github.com/cselab/odil
 
+## SciML
+- https://github.com/openhackathons-org/End-to-End-AI-for-Science
+- https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024
+- https://deepxde.readthedocs.io/en/latest/
+
 ## Machine Learning
 - https://www.kaggle.com/
 - https://kks32-courses.github.io/sciml/README.html
 - https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning
 - https://github.com/agussomacal/ROMHighContrast/tree/NonLinearROM
+- https://github.com/lululxvi/tutorials
