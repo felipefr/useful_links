@@ -4,6 +4,7 @@
 - SNES, Fracture : https://newfrac.gitlab.io/newfrac-fenicsx-training/python/README.html
 - https://fenics-solid-tutorial.readthedocs.io/en/latest/bibliography.html#finite-element-method
 - https://github.com/bleyerj/dolfinx_materials
+- Cheatsheet dolfin-dolfinx https://github.com/juliusgh/dolfinx-demos/blob/main/dolfin-dolfinx-cheatsheet.md
 
 ### Contact mechanics
 - https://bitbucket.org/fenics-project/dolfin/src/946dbd3e268dc20c64778eb5b734941ca5c343e5/python/demo/undocumented/contact-vi-snes/demo_contact-vi-snes.py?at=master#demo_contact-vi-snes.py-1,87:88,99
