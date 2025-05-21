@@ -1,4 +1,8 @@
 # Repositories & Libraries
+## Numerical libraries:
+- Pacopy: https://pypi.org/project/pacopy/ Numerical continuation problems.
+- scikit-fem: https://scikit-fem.readthedocs.io/en/latest/listofexamples.html
+
 ## Fenics
 - https://bleyerj.github.io/comet-fenicsx/
 - SNES, Fracture : https://newfrac.gitlab.io/newfrac-fenicsx-training/python/README.html
