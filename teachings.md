@@ -12,7 +12,9 @@
 **Numerical Analysis**
 - https://numericalmethodssullivan.github.io/
 
-**Jupyter books**
+
+**Jupyter books, scientific computing**
 - https://perso.univ-lyon1.fr/marc.buffat/
+- https://jrjohansson.github.io/numericalpython.html
 
 
