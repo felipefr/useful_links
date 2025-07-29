@@ -1,11 +1,7 @@
 *Journals*
 
 **Computational Mechanics (high level)**
-- https://www.sciencedirect.com/journal/computational-materials-science
-- https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design
-- https://www.sciencedirect.com/journal/mechanobiology-in-medicine
 - https://www.sciencedirect.com/journal/journal-of-computational-physics
-- https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids
 - https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering
 - https://www.sciencedirect.com/journal/mechanics-of-materials
 - https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures	
@@ -20,6 +16,8 @@
 - https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences--> fast
 
 **Computational Mechanics (middle range level)**
+- https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design
+- https://www.sciencedirect.com/journal/computational-materials-science
 - Engineering with Computers: https://link.springer.com/journal/366
 - International Journal of Mechanics and Materials in Design : https://link.springer.com/journal/10999
 - https://www.sciencedirect.com/journal/mechanics-research-communications --> Fast
@@ -29,6 +27,7 @@
 - (Q3) https://www.degruyter.com/journal/key/ijnsns/html : International Journal of Nonlinear Sciences and Numerical Simulation
 
 **Theoretical Mechanics**
+- https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids
 - Acta Mechanica : https://link.springer.com/journal/707
 - Mathematics and Mechanics of Solids: https://journals.sagepub.com/home/mms
 - Continuum Mechanics and Thermodynamics: https://link.springer.com/journal/https://link.springer.com/journal/10999161
@@ -67,6 +66,7 @@
 - https://link.springer.com/journal/10237: Biomechanics and Modeling in Mechanobiology
 - https://www.sciencedirect.com/journal/journal-of-biomechanics
 - https://asmedigitalcollection.asme.org/biomechanical/
+- https://www.sciencedirect.com/journal/mechanobiology-in-medicine
 
 **Wide scope in Engineering, Physics, Maths** :
 - https://royalsocietypublishing.org/journal/rsta
